@@ -31,7 +31,7 @@ pip install requests tqdm
 2. **Run the Script**: Use the script from the command line as follows:
 
 ```bash
-python playlist_length_calculator.py [-u URL] [-c] [-au]
+python main.py [-u URL] [-c] [-au]
 ```
 
 ### Arguments
@@ -43,7 +43,7 @@ python playlist_length_calculator.py [-u URL] [-c] [-au]
 ### Example
 
 ```bash
-python playlist_length_calculator.py -u "https://www.youtube.com/playlist?list=PLxyz"
+python main.py -u "https://www.youtube.com/playlist?list=PLxyz"
 ```
 
 ## Notes
