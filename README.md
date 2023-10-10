@@ -62,7 +62,3 @@ python main.py -u "https://www.youtube.com/playlist?list=PLxyz"
 ## License
 
 This project is open-source and available to everyone. Feel free to use, modify, and distribute as per your needs.
-
----
-
-Feel free to customize this README according to any additional features or specificities of your project. If there is anything more you'd like to add or modify in the README, please let me know!
